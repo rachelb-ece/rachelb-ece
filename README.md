@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello!
+
+I'm Rachel, an Electronics and Computer Engineering student graduating Summer 2027.
+
+This year at university I'm most looking forward to...
+- Working on my dissertation "Design and Implementation of a Phase-locked Photic Stimulation System Prototype for Synchronisation of Sleep-Onset Oscillatory Signals"
+- Being part of my university's Lunabotics Team where we will be entering the competition by designing, building, and operating a rover for use in a simulated lunar environment
+
+Please feel free to contact me via LinkedIn
 
 <!--
 **rachelb-ece/rachelb-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,12 +6,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&background=FF000000&center=true&multiline=true&width=500&lines=Electronics+and+Computer+Engineering+Student;Graduating+Summer+2027" alt="Typing SVG" /></a>
 </p>
 
-This year at university I'm most looking forward to...
-- Working on my dissertation "Design and Implementation of a Phase-locked Photic Stimulation System Prototype for Synchronisation of Sleep-Onset Oscillatory Signals"
-- Being part of my university's Lunabotics Team where we will be entering the competition by designing, building, and operating a rover for use in a simulated lunar environment
+Currently working on:
+[Bash Hangman :running_man:](https://github.com/rachelb-ece/bash_hangman)
 
 Please feel free to contact me via LinkedIn
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rachelb-ece&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=20&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=rachelb-ece&color=blue)
 <!--
 **rachelb-ece/rachelb-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

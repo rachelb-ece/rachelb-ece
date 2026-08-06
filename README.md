@@ -2,9 +2,7 @@
   Hello, I'm Rachel
 </h2>
 
-<div align="center">
-  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Electronics+Computer+Engineering+Student!;Graduating+Summer+2027' alt='Typing SVG' />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&background=FF000000&center=true&vCenter=true&multiline=true&width=435&lines=Electronics+and+Computer+Engineering+Student;Graduating+Summer+2027" alt="Typing SVG" /></a>
 
 This year at university I'm most looking forward to...
 - Working on my dissertation "Design and Implementation of a Phase-locked Photic Stimulation System Prototype for Synchronisation of Sleep-Onset Oscillatory Signals"

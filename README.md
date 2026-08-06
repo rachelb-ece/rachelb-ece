@@ -1,6 +1,10 @@
-## Hello!
+<h2 align="center">
+  Hello, I'm Rachel
+</h2>
 
-I'm Rachel, an Electronics and Computer Engineering student graduating Summer 2027.
+<div align="center">
+  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Electronics+Computer+Engineering+Student!;Graduating+Summer+2027' alt='Typing SVG' />
+</div>
 
 This year at university I'm most looking forward to...
 - Working on my dissertation "Design and Implementation of a Phase-locked Photic Stimulation System Prototype for Synchronisation of Sleep-Onset Oscillatory Signals"

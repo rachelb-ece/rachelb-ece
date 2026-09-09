@@ -7,7 +7,7 @@
 </p>
 
 Currently working on:
-[Bash Hangman :running_man:](https://github.com/rachelb-ece/bash_hangman)
+[Bash Toolkit :gear:](https://github.com/rachelb-ece/bash_toolkit)
 
 Please feel free to contact me via LinkedIn
 

@@ -7,7 +7,7 @@
 </p>
 
 Currently working on:
-[Bash Toolkit :gear:](https://github.com/rachelb-ece/bash_toolkit)
+[Java Digital Logic Simulator :bulb:](https://github.com/rachelb-ece/digital-logic-simulator)
 
 Please feel free to contact me via LinkedIn
 

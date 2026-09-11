@@ -13,7 +13,7 @@ Please feel free to contact me via LinkedIn
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rachelb-ece&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=20&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=20&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=rachelb-ece&langs_count=20&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=rachelb-ece&color=blue)
 <!--
